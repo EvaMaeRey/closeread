@@ -105,7 +105,7 @@ For guidance on how to author Closeread documents, read the [Guide](guide/index.
 
 ### Publishing
 
-When you're ready to let the world (or just a few people) see your work, check out the [Quarto publishing section](https://quarto.org/docs/publishing/) of the Guide. Closeread documents follow the same publishing rules as other Quarto documents, so if you've worked with Quarto before, you're already already to go! Likewise, if you've published other static web pages before, you can take the files created by `quarto render` and put them anywhere on the web.
+When you're ready to let the world (or just a few people) see your work, check out the [Quarto publishing section](https://quarto.org/docs/publishing/) of the Guide. Closeread documents follow the same publishing rules as other [Quarto](https://quarto.org/) documents, so if you've worked with Quarto before, you already know what to do! Likewise, if you've published other static web pages before, you can take the files created by `quarto render` and put them anywhere on the web.
 
 ### Gallery and Reference
 
